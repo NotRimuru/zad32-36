@@ -1,0 +1,10 @@
+h3 {
+	width: 400pt;
+	height:1.5cm;
+	padding : 20px;
+	margin : 40px;
+	border : 10px inset purple;
+	background : rgb(65,105,225);
+	line-height : 8px;
+	font-size : 8px;
+}
